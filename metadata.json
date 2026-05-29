@@ -1,0 +1,6 @@
+{
+  "name": "Website Image to Video Generator",
+  "description": "Convert website URLs, screenshots, or mockups into stunning promotional showcase videos with cinematic scrolling, device frames, subtitles, and voice narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
